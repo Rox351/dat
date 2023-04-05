@@ -16,9 +16,6 @@ body {
 
 }
 
-.corpo{
-    background: #9c9c9c 
-}
 
 .menu {
     list-style: none;
@@ -27,6 +24,8 @@ body {
     }
 
   nav  {
+    margin: 56px 0px 0px 0px;
+
     list-style: none;
     float: left;
     top: 5%;
